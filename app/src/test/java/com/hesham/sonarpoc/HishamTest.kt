@@ -14,4 +14,8 @@ class HishamTest {
     fun addition_isCorrect() {
         Hisham().add(2,3)
     }
+    @Test
+    fun addition_isCorrect2() {
+        Hisham().add2(2,3)
+    }
 }
