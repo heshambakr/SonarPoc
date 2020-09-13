@@ -8,7 +8,7 @@ public class HishamJavaTest {
 
     @Test
     public void addition_isCorrect() {
-        new HishamJava().add(2,3);
+        new HishamJava().add(2,4);
     }
 
 }
