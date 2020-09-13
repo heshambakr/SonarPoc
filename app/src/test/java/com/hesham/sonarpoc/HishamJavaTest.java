@@ -7,7 +7,7 @@ import org.junit.Test;
 public class HishamJavaTest {
 
     @Test
-    void addition_isCorrect() {
+    public void addition_isCorrect() {
         new HishamJava().add(2,3);
     }
 
